@@ -1,0 +1,14 @@
+
+
+body {
+text-align: center;
+height: 100%
+width: 100%
+background-image: url("http://www.pixelstalk.net/wp-content/uploads/2016/05/Sky-Wallpapers-HD.jpg");
+background-size: cover;
+}
+
+#name {
+font-size: 56px;
+color: SkyBlue;
+}
