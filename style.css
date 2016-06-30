@@ -1,13 +1,11 @@
 
 
 body {
-  background-image: url("http://w-ll.org/wp-content/uploads/2014/02/sphere3.gif");
+  background-image: url('http://w-ll.org/wp-content/uploads/2014/02/sphere3.gif');
   background-size: cover;
-  background-repeat: repeat-y;
-  background-attachment: fixed;
 text-align: center;
-height: 100%
-width: 100%
+height: 100%;
+width: 100%;
 }
 
 h1 {
