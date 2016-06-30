@@ -1,7 +1,7 @@
 
 
 body {
-  background-image: url('http://w-ll.org/wp-content/uploads/2014/02/sphere3.gif');
+  background-image: url('http://cdn.pcwallart.com/images/universe-stars-background-wallpaper-3.jpg');
   background-size: cover;
 text-align: center;
 height: 100%;
@@ -11,7 +11,7 @@ width: 100%;
 h1 {
   padding: 250px 0;
   margin: 30px;
-  font-family: 'Trebuchet MS', 'Helvetica', 'serif';
+  font-family: 'Trebuchet MS', 'Helvetica';
   color: Gold;
   font-size: 56px;
 }
@@ -19,4 +19,5 @@ h1 {
 #name {
 font-size: 80px;
 color: White;
+font-family: 'Trebuchet MS', 'Helvetica';
 }
