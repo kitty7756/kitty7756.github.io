@@ -1,12 +1,21 @@
 body {
+  background-image: url("http://w-ll.org/wp-content/uploads/2014/02/sphere3.gif");
+  background-size: cover;
+  background-positon: center;
 text-align: center;
 height: 100%
 width: 100%
 }
 
+h1 {
+  padding: 250px 0;
+  margin: 30px;
+  font-family: 'Trebuchet MS', 'Helvetica', 'serif';
+  color: Gold;
+  font-size: 56px;
+}
+
 #name {
-  background-image: url("http://www.pixelstalk.net/wp-content/uploads/2016/05/Sky-Wallpapers-HD.jpg");
-background-size: cover;
-font-size: 56px;
-color: SkyBlue;
+font-size: 80px;
+color: White;
 }
