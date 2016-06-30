@@ -1,2 +1,18 @@
 
+body {
+text-align: center;
+height: 100%;
+width: 100%;
+}
 
+h1 {
+  font-family: 'Trebuchet MS', 'Helvetica';
+  color: White;
+  font-size: 56px;
+}
+
+#name {
+font-size: 80px;
+color: White;
+font-family: 'Trebuchet MS', 'Helvetica';
+}
