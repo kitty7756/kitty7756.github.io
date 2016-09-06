@@ -7,14 +7,6 @@ height: 100%
 width: 100%
 }
 
-h1 {
-  padding: 100px 0;
-  margin: 5px;
-  font-family: 'Trebuchet MS', 'Helvetica', 'serif';
-  color: Gold;
-  font-size: 56px;
-}
-
 .info {
   border-style: dotted;
   border-width: 3px;
