@@ -17,26 +17,26 @@ h1 {
 
 #name {
 font-size: 20px;
-color: White;
+color: black;
 }
 
 #address {
   font-size: 20px;
-  color: White;
+  color: black;
   padding: 20px 0;
 margin: 2px;
 }
 
 #phone {
   font-size: 20px;
-  color: white;
+  color: black;
   padding: 20px 0;
 margin: 2px;
 }
 
 #email {
   font-size: 50px;
-  color: white;
+  color: black;
   padding: 20px 0;
 margin: 2px;
 }
