@@ -13,6 +13,9 @@ h1 {
   font-family: 'Trebuchet MS', 'Helvetica', 'serif';
   color: Gold;
   font-size: 56px;
+  background-image: url("https://wallpaperscraft.com/image/sky_star_light_dark_28196_602x339.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 .info {
