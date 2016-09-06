@@ -24,7 +24,7 @@ h1 {
   padding: 10px;
 }
   
-  
+
 #name {
 font-size: 50px;
 color: black;
@@ -49,4 +49,8 @@ margin: 2px;
   color: black;
   padding: 20px 0;
 margin: 2px;
+}
+
+.education{
+  text-align: left;
 }
