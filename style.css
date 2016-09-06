@@ -77,3 +77,16 @@ margin: 2px;
   margin:0 auto;
   padding: 10px;
 }
+
+.experience {
+   width: 600px;
+  text-align: left;
+  font-size: 20px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+#exp {
+  font-size: 30px;
+  text-align: left;
+}
