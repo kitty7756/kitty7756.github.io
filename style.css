@@ -15,6 +15,14 @@ h1 {
   font-size: 56px;
 }
 
+#together {
+  border-style: dotted;
+  border-width: 3px;
+  
+  
+}
+  
+  
 #name {
 font-size: 50px;
 color: black;
