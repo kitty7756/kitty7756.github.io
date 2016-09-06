@@ -53,4 +53,11 @@ margin: 2px;
 
 .education{
   text-align: left;
+  font-size: 30px;
+  
+}
+
+.ubc{
+  text-align: left;
+  font-size: 20;
 }
