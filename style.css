@@ -16,7 +16,7 @@ h1 {
 }
 
 #name {
-font-size: 20px;
+font-size: 50px;
 color: black;
 }
 
@@ -35,7 +35,7 @@ margin: 2px;
 }
 
 #email {
-  font-size: 50px;
+  font-size: 20px;
   color: black;
   padding: 20px 0;
 margin: 2px;
