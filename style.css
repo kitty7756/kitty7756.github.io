@@ -54,13 +54,26 @@ margin: 2px;
 }
 
 .education{
+  width: 600px;
   text-align: left;
   font-size: 20px;
-  margin-left: 600px;
-  margin-right: 600px;
+  margin: 0 auto;
   padding: 10px;
 }
 .highschool {
   text-align: left;
   font-size: 20;
+}
+
+#skill {
+  font-size: 30px;
+  text-align: left;
+}
+
+.skills {
+  text-align: left;
+  font-size: 20px;
+  width: 600px;
+  margin:0 auto;
+  padding: 10px;
 }
