@@ -21,6 +21,16 @@ color: White;
 }
 
 #address {
-  font-size 50px;
+  font-size: 50px;
   color: White;
+}
+
+#phone {
+  font-size: 50px;
+  color: white;
+}
+
+#email {
+  font-size: 50px;
+  color: white;
 }
