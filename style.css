@@ -8,8 +8,8 @@ width: 100%
 }
 
 h1 {
-  padding: 250px 0;
-  margin: 15px;
+  padding: 100px 0;
+  margin: 5px;
   font-family: 'Trebuchet MS', 'Helvetica', 'serif';
   color: Gold;
   font-size: 56px;
@@ -18,4 +18,9 @@ h1 {
 #name {
 font-size: 80px;
 color: White;
+}
+
+#address {
+  font-size 50px;
+  color: White;
 }
