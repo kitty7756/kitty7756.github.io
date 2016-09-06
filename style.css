@@ -16,21 +16,27 @@ h1 {
 }
 
 #name {
-font-size: 80px;
+font-size: 20px;
 color: White;
 }
 
 #address {
-  font-size: 50px;
+  font-size: 20px;
   color: White;
+  padding: 20px 0;
+margin: 2px;
 }
 
 #phone {
-  font-size: 50px;
+  font-size: 20px;
   color: white;
+  padding: 20px 0;
+margin: 2px;
 }
 
 #email {
   font-size: 50px;
   color: white;
+  padding: 20px 0;
+margin: 2px;
 }
