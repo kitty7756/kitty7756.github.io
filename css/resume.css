@@ -115,8 +115,3 @@ a {
   a:hover, a:focus, a:active {
     color: #2a898e; }
 
-.custom-images {
-    border-radius: 8px;
-    width: 300px;
-    margin-top: 5px;
-}
